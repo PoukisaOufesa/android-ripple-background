@@ -1,4 +1,4 @@
-# Android Ripple Background
+# Android Ripple Background (fork and release from skyfishjy)
 
 A beautiful ripple animation for your app. You can easily change its color, speed of wave, one ripple or multiple ripples. See demo below.
 
@@ -13,6 +13,10 @@ A beautiful ripple animation for your app. You can easily change its color, spee
 ```groovy
 dependencies {
         compile 'com.skyfishjy.ripplebackground:library:1.0.1'
+}
+or 
+dependencies {
+    implementation'com.github.PoukisaOufesa:android-ripple-background:1.0.1'
 }
 ```
 ###Step 2
